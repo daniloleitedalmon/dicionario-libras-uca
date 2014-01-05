@@ -1,0 +1,84 @@
+﻿h1, fieldset, table, legend, div 
+
+{
+padding: 3px;
+margin:0;
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 12px;
+font-weight: bold;
+
+}
+
+h1
+
+{
+color: #003388;
+font-size: 24px;
+}
+
+body
+
+{
+background: #CCCCCC;
+color:#001133;
+}
+
+div#right
+
+{
+float:right;
+
+}
+
+div#left
+{
+float:left;
+
+}
+
+table#righttable
+
+{
+position: relative;
+width:700px;
+height: auto;
+border-style: ridge;
+border-width: 2px;
+}
+
+table#lefttable
+
+{
+position: relative;
+width:250px;
+height: auto;
+border-style: ridge;
+border-width: 2px;
+}
+
+table#downright
+{
+position: relative;
+width: 700px;
+border-style: ridge;
+border-width: 2px;
+
+}
+td, tr
+
+{
+border-style: ridge;
+border-width: 2px;
+}
+
+img
+{
+width:120;
+height:90;
+}
+
+table#downright td
+{
+position:relative;
+width:25%;
+}
